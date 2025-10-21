@@ -6,4 +6,4 @@ The project uses a .json file as a data source, allowing extension information t
 
 Building this project strengthened my understanding of DOM manipulation, asynchronous data handling, and responsive layout design using CSS Flexbox and Grid.
 
-Live Link: [View Project]()
+Live Link: [View Project]( https://patrick-gif955.github.io/Browser-extensions-manager-UI/)
